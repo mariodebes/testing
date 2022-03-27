@@ -1,12 +1,5 @@
 ## This Repo contains the Skeleton code for API Starter pack
 
-## Clone
-
-Use the below command to clone this repo
-```
-git clone https://github.com/College360/API.git
-```
-
 ## Install dependencies
 
 Install the dependencies using the below command
